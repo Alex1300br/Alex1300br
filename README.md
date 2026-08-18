@@ -14,13 +14,6 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Alex1300br/Alex1300br/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Alex1300br/Alex1300br/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="100" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="socials" align="left">
 </div>
 
